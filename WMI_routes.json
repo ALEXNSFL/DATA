@@ -1,0 +1,497 @@
+[
+    {
+        "city": "Vienna",
+        "country": "AUSTRIA",
+        "iata": "VIE",
+        "icao": "LOWW",
+        "lat": "48.110271",
+        "lon": "16.569719",
+        "name": "Vienna International Airport"
+    },
+    {
+        "city": "Brussels",
+        "country": "BELGIUM",
+        "iata": "CRL",
+        "icao": "EBCI",
+        "lat": "50.459999",
+        "lon": "4.452778",
+        "name": "Brussels South Charleroi Airport"
+    },
+    {
+        "city": "Burgas",
+        "country": "BULGARIA",
+        "iata": "BOJ",
+        "icao": "LBBG",
+        "lat": "42.569580",
+        "lon": "27.515230",
+        "name": "Burgas Airport"
+    },
+    {
+        "city": "Zadar",
+        "country": "CROATIA",
+        "iata": "ZAD",
+        "icao": "LDZD",
+        "lat": "44.108261",
+        "lon": "15.346690",
+        "name": "Zadar Airport"
+    },
+    {
+        "city": "Pafos",
+        "country": "CYPRUS",
+        "iata": "PFO",
+        "icao": "LCPH",
+        "lat": "34.718277",
+        "lon": "32.484398",
+        "name": "Paphos International Airport"
+    },
+    {
+        "city": "Helsinki",
+        "country": "FINLAND",
+        "iata": "HEL",
+        "icao": "EFHK",
+        "lat": "60.317219",
+        "lon": "24.963329",
+        "name": "Helsinki Vantaa Airport"
+    },
+    {
+        "city": "Paris",
+        "country": "FRANCE",
+        "iata": "BVA",
+        "icao": "LFOB",
+        "lat": "49.454441",
+        "lon": "2.112778",
+        "name": "Paris Beauvais-Tille Airport"
+    },
+    {
+        "city": "Cologne",
+        "country": "GERMANY",
+        "iata": "CGN",
+        "icao": "EDDK",
+        "lat": "50.866001",
+        "lon": "7.143000",
+        "name": "Cologne Bonn Airport"
+    },
+    {
+        "city": "Athens",
+        "country": "GREECE",
+        "iata": "ATH",
+        "icao": "LGAV",
+        "lat": "37.936352",
+        "lon": "23.944460",
+        "name": "Athens Eleftherios Venizelos"
+    },
+    {
+        "city": "Chania",
+        "country": "GREECE",
+        "iata": "CHQ",
+        "icao": "LGSA",
+        "lat": "35.531738",
+        "lon": "24.149670",
+        "name": "Chania International Airport"
+    },
+    {
+        "city": "Corfu",
+        "country": "GREECE",
+        "iata": "CFU",
+        "icao": "LGKR",
+        "lat": "39.601940",
+        "lon": "19.911659",
+        "name": "Corfu International Airport"
+    },
+    {
+        "city": "Rhodes",
+        "country": "GREECE",
+        "iata": "RHO",
+        "icao": "LGRP",
+        "lat": "36.405411",
+        "lon": "28.086189",
+        "name": "Rhodes International Airport"
+    },
+    {
+        "city": "Thessaloniki",
+        "country": "GREECE",
+        "iata": "SKG",
+        "icao": "LGTS",
+        "lat": "40.519718",
+        "lon": "22.970949",
+        "name": "Thessaloniki International Airport"
+    },
+    {
+        "city": "Budapest",
+        "country": "HUNGARY",
+        "iata": "BUD",
+        "icao": "LHBP",
+        "lat": "47.436932",
+        "lon": "19.255590",
+        "name": "Budapest Ferenc Liszt International Airport"
+    },
+    {
+        "city": "Dublin",
+        "country": "IRELAND",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "lat": "53.421379",
+        "lon": "-6.270000",
+        "name": "Dublin Airport"
+    },
+    {
+        "city": "Shannon",
+        "country": "IRELAND",
+        "iata": "SNN",
+        "icao": "EINN",
+        "lat": "52.701969",
+        "lon": "-8.924810",
+        "name": "Shannon Airport"
+    },
+    {
+        "city": "Bari",
+        "country": "ITALY",
+        "iata": "BRI",
+        "icao": "LIBD",
+        "lat": "41.138851",
+        "lon": "16.760590",
+        "name": "Bari Karol Wojtyla Airport"
+    },
+    {
+        "city": "Bologna",
+        "country": "ITALY",
+        "iata": "BLQ",
+        "icao": "LIPE",
+        "lat": "44.535439",
+        "lon": "11.288660",
+        "name": "Bologna Guglielmo Marconi Airport"
+    },
+    {
+        "city": "Cagliari",
+        "country": "ITALY",
+        "iata": "CAG",
+        "icao": "LIEE",
+        "lat": "39.251461",
+        "lon": "9.054283",
+        "name": "Cagliari Elmas Airport"
+    },
+    {
+        "city": "Catania",
+        "country": "ITALY",
+        "iata": "CTA",
+        "icao": "LICC",
+        "lat": "37.466782",
+        "lon": "15.066400",
+        "name": "Catania Fontanarossa Airport"
+    },
+    {
+        "city": "Milan",
+        "country": "ITALY",
+        "iata": "BGY",
+        "icao": "LIME",
+        "lat": "45.668304",
+        "lon": "9.704209",
+        "name": "Milan Bergamo Orio al Serio International Airport"
+    },
+    {
+        "city": "Naples",
+        "country": "ITALY",
+        "iata": "NAP",
+        "icao": "LIRN",
+        "lat": "40.886028",
+        "lon": "14.290780",
+        "name": "Naples Airport"
+    },
+    {
+        "city": "Pescara",
+        "country": "ITALY",
+        "iata": "PSR",
+        "icao": "LIBP",
+        "lat": "42.431648",
+        "lon": "14.181060",
+        "name": "Pescara Abruzzo International Airport"
+    },
+    {
+        "city": "Pisa",
+        "country": "ITALY",
+        "iata": "PSA",
+        "icao": "LIRP",
+        "lat": "43.683910",
+        "lon": "10.392750",
+        "name": "Pisa Galileo Galilei Airport"
+    },
+    {
+        "city": "Rome",
+        "country": "ITALY",
+        "iata": "CIA",
+        "icao": "LIRA",
+        "lat": "41.799358",
+        "lon": "12.594930",
+        "name": "Rome Ciampino Airport"
+    },
+    {
+        "city": "Trapani",
+        "country": "ITALY",
+        "iata": "TPS",
+        "icao": "LICT",
+        "lat": "37.911400",
+        "lon": "12.487960",
+        "name": "Trapani Birgi Airport"
+    },
+    {
+        "city": "Venice",
+        "country": "ITALY",
+        "iata": "TSF",
+        "icao": "LIPH",
+        "lat": "45.648399",
+        "lon": "12.194420",
+        "name": "Venice Treviso Airport"
+    },
+    {
+        "city": "Amman",
+        "country": "JORDAN",
+        "iata": "AMM",
+        "icao": "OJAI",
+        "lat": "31.722549",
+        "lon": "35.993210",
+        "name": "Amman Queen Alia International Airport"
+    },
+    {
+        "city": "Riga",
+        "country": "LATVIA",
+        "iata": "RIX",
+        "icao": "EVRA",
+        "lat": "56.923611",
+        "lon": "23.971109",
+        "name": "Riga International Airport"
+    },
+    {
+        "city": "Kaunas",
+        "country": "LITHUANIA",
+        "iata": "KUN",
+        "icao": "EYKA",
+        "lat": "54.963909",
+        "lon": "24.084770",
+        "name": "Kaunas Airport"
+    },
+    {
+        "city": "Malta",
+        "country": "MALTA",
+        "iata": "MLA",
+        "icao": "LMML",
+        "lat": "35.857491",
+        "lon": "14.477500",
+        "name": "Malta Luqa International Airport"
+    },
+    {
+        "city": "Eindhoven",
+        "country": "NETHERLANDS",
+        "iata": "EIN",
+        "icao": "EHEH",
+        "lat": "51.450130",
+        "lon": "5.374528",
+        "name": "Eindhoven Airport"
+    },
+    {
+        "city": "Oslo",
+        "country": "NORWAY",
+        "iata": "TRF",
+        "icao": "ENTO",
+        "lat": "59.186699",
+        "lon": "10.258620",
+        "name": "Oslo Sandefjord Airport"
+    },
+    {
+        "city": "Krakow",
+        "country": "POLAND",
+        "iata": "KRK",
+        "icao": "EPKK",
+        "lat": "50.077728",
+        "lon": "19.784830",
+        "name": "Krakow John Paul II International Airport"
+    },
+    {
+        "city": "Szczecin",
+        "country": "POLAND",
+        "iata": "SZZ",
+        "icao": "EPSC",
+        "lat": "53.584728",
+        "lon": "14.902200",
+        "name": "Szczecin Goleniow Airport"
+    },
+    {
+        "city": "Warsaw",
+        "country": "POLAND",
+        "iata": "WMI",
+        "icao": "EPMO",
+        "lat": "52.451111",
+        "lon": "20.651667",
+        "name": "Warsaw Modlin Airport"
+    },
+    {
+        "city": "Faro",
+        "country": "PORTUGAL",
+        "iata": "FAO",
+        "icao": "LPFR",
+        "lat": "37.014420",
+        "lon": "-7.965910",
+        "name": "Faro Airport"
+    },
+    {
+        "city": "Lisbon",
+        "country": "PORTUGAL",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "lat": "38.781311",
+        "lon": "-9.135910",
+        "name": "Lisbon Humberto Delgado Airport"
+    },
+    {
+        "city": "Porto",
+        "country": "PORTUGAL",
+        "iata": "OPO",
+        "icao": "LPPR",
+        "lat": "41.248051",
+        "lon": "-8.681380",
+        "name": "Porto Francisco de Sa Carneiro Airport"
+    },
+    {
+        "city": "Alicante",
+        "country": "SPAIN",
+        "iata": "ALC",
+        "icao": "LEAL",
+        "lat": "38.282162",
+        "lon": "-0.558150",
+        "name": "Alicante Airport"
+    },
+    {
+        "city": "Barcelona",
+        "country": "SPAIN",
+        "iata": "BCN",
+        "icao": "LEBL",
+        "lat": "41.297070",
+        "lon": "2.078463",
+        "name": "Barcelona El Prat Airport"
+    },
+    {
+        "city": "Madrid",
+        "country": "SPAIN",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "lat": "40.488701",
+        "lon": "-3.570000",
+        "name": "Madrid Barajas Airport"
+    },
+    {
+        "city": "Malaga",
+        "country": "SPAIN",
+        "iata": "AGP",
+        "icao": "LEMG",
+        "lat": "36.679596",
+        "lon": "-4.496117",
+        "name": "Malaga Costa Del Sol Airport"
+    },
+    {
+        "city": "Palma de Mallorca",
+        "country": "SPAIN",
+        "iata": "PMI",
+        "icao": "LEPA",
+        "lat": "39.551670",
+        "lon": "2.738808",
+        "name": "Palma de Mallorca Airport"
+    },
+    {
+        "city": "Tenerife",
+        "country": "SPAIN",
+        "iata": "TFS",
+        "icao": "GCTS",
+        "lat": "28.044470",
+        "lon": "-16.572399",
+        "name": "Tenerife South Airport"
+    },
+    {
+        "city": "Gothenburg",
+        "country": "SWEDEN",
+        "iata": "GOT",
+        "icao": "ESGG",
+        "lat": "57.662830",
+        "lon": "12.279810",
+        "name": "Gothenburg Landvetter Airport"
+    },
+    {
+        "city": "Stockholm",
+        "country": "SWEDEN",
+        "iata": "ARN",
+        "icao": "ESSA",
+        "lat": "59.653545",
+        "lon": "17.939816",
+        "name": "Stockholm Arlanda Airport"
+    },
+    {
+        "city": "Birmingham",
+        "country": "UNITED KINGDOM",
+        "iata": "BHX",
+        "icao": "EGBB",
+        "lat": "52.453850",
+        "lon": "-1.748020",
+        "name": "Birmingham Airport"
+    },
+    {
+        "city": "Bristol",
+        "country": "UNITED KINGDOM",
+        "iata": "BRS",
+        "icao": "EGGD",
+        "lat": "51.382660",
+        "lon": "-2.719080",
+        "name": "Bristol Airport"
+    },
+    {
+        "city": "Edinburgh",
+        "country": "UNITED KINGDOM",
+        "iata": "EDI",
+        "icao": "EGPH",
+        "lat": "55.950001",
+        "lon": "-3.372500",
+        "name": "Edinburgh Airport"
+    },
+    {
+        "city": "Glasgow",
+        "country": "UNITED KINGDOM",
+        "iata": "GLA",
+        "icao": "EGPF",
+        "lat": "55.871941",
+        "lon": "-4.433050",
+        "name": "Glasgow International Airport"
+    },
+    {
+        "city": "Leeds",
+        "country": "UNITED KINGDOM",
+        "iata": "LBA",
+        "icao": "EGNM",
+        "lat": "53.865891",
+        "lon": "-1.660560",
+        "name": "Leeds Bradford Airport"
+    },
+    {
+        "city": "Liverpool",
+        "country": "UNITED KINGDOM",
+        "iata": "LPL",
+        "icao": "EGGP",
+        "lat": "53.333611",
+        "lon": "-2.849720",
+        "name": "Liverpool John Lennon Airport"
+    },
+    {
+        "city": "London",
+        "country": "UNITED KINGDOM",
+        "iata": "STN",
+        "icao": "EGSS",
+        "lat": "51.884998",
+        "lon": "0.235000",
+        "name": "London Stansted Airport"
+    },
+    {
+        "city": "Manchester",
+        "country": "UNITED KINGDOM",
+        "iata": "MAN",
+        "icao": "EGCC",
+        "lat": "53.353741",
+        "lon": "-2.274950",
+        "name": "Manchester Airport"
+    }
+]
