@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Paris",
+        "country": "FRANCE",
+        "iata": "ORY",
+        "icao": "LFPO",
+        "lat": "48.723331",
+        "lon": "2.379444",
+        "name": "Paris Orly Airport"
+    },
+    {
+        "city": "Maripasoula",
+        "country": "FRENCH GUIANA",
+        "iata": "MPY",
+        "icao": "SOOA",
+        "lat": "3.657500",
+        "lon": "-54.037201",
+        "name": "Maripasoula Airport"
+    },
+    {
+        "city": "Sa\u00fal",
+        "country": "FRENCH GUIANA",
+        "iata": "XAU",
+        "icao": "SOOS",
+        "lat": "3.613610",
+        "lon": "-53.204201",
+        "name": "Sa\u00fal Airport"
+    },
+    {
+        "city": "Fort-de-France",
+        "country": "MARTINIQUE",
+        "iata": "FDF",
+        "icao": "TFFF",
+        "lat": "14.592220",
+        "lon": "-60.996300",
+        "name": "Martinique Aime Cesaire International Airport"
+    },
+    {
+        "city": "Canouan",
+        "country": "SAINT VINCENT AND THE GRENADINES",
+        "iata": "CIW",
+        "icao": "TVSC",
+        "lat": "12.699040",
+        "lon": "-61.342400",
+        "name": "Canouan Airport"
+    }
+]
